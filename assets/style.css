@@ -22,7 +22,11 @@ section {
   margin-top: 100px;
   margin-left: 50px;
   margin-right: 50px;
-  padding: 60px;
+  padding: 40px;
+}
+
+#portfolio {
+  padding: unset !important;
 }
 
 p {
